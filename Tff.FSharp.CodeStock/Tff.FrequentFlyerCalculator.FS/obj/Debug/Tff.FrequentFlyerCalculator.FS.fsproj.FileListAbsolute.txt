@@ -1,0 +1,7 @@
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.FrequentFlyerCalculator.FS\bin\Debug\Tff.FrequentFlyerCalculator.FS.XML
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.FrequentFlyerCalculator.FS\bin\Debug\Tff.FrequentFlyerCalculator.FS.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.FrequentFlyerCalculator.FS\bin\Debug\Tff.FrequentFlyerCalculator.FS.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.FrequentFlyerCalculator.FS\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.FrequentFlyerCalculator.FS\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.FrequentFlyerCalculator.FS\obj\Debug\Tff.FrequentFlyerCalculator.FS.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.FrequentFlyerCalculator.FS\obj\Debug\Tff.FrequentFlyerCalculator.FS.pdb

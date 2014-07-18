@@ -1,0 +1,7 @@
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.VarianceCalculator.FS\bin\Debug\Tff.VarianceCalculator.FS.XML
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.VarianceCalculator.FS\bin\Debug\Tff.VarianceCalculator.FS.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.VarianceCalculator.FS\bin\Debug\Tff.VarianceCalculator.FS.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.VarianceCalculator.FS\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.VarianceCalculator.FS\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.VarianceCalculator.FS\obj\Debug\Tff.VarianceCalculator.FS.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.VarianceCalculator.FS\obj\Debug\Tff.VarianceCalculator.FS.pdb

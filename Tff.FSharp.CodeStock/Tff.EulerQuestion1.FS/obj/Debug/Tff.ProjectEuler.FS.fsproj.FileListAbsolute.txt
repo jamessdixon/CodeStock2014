@@ -1,0 +1,21 @@
+C:\TFS\Tff.CodeCamp2013\Tff.EulerQuestion1.FS\bin\Debug\Tff.EulerQuestion1.FS.XML
+C:\TFS\Tff.CodeCamp2013\Tff.EulerQuestion1.FS\bin\Debug\Tff.ProjectEuler.FS.dll
+C:\TFS\Tff.CodeCamp2013\Tff.EulerQuestion1.FS\bin\Debug\Tff.ProjectEuler.FS.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.EulerQuestion1.FS\bin\Debug\FSharp.Core.dll
+C:\TFS\Tff.CodeCamp2013\Tff.EulerQuestion1.FS\bin\Debug\FSharp.Core.xml
+C:\TFS\Tff.CodeCamp2013\Tff.EulerQuestion1.FS\obj\Debug\Tff.ProjectEuler.FS.dll
+C:\TFS\Tff.CodeCamp2013\Tff.EulerQuestion1.FS\obj\Debug\Tff.ProjectEuler.FS.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.EulerQuestion1.FS\bin\Debug\Tff.EulerQuestion1.FS.XML
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.EulerQuestion1.FS\bin\Debug\Tff.ProjectEuler.FS.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.EulerQuestion1.FS\bin\Debug\Tff.ProjectEuler.FS.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.EulerQuestion1.FS\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.EulerQuestion1.FS\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.EulerQuestion1.FS\obj\Debug\Tff.ProjectEuler.FS.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.EulerQuestion1.FS\obj\Debug\Tff.ProjectEuler.FS.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.EulerQuestion1.FS\bin\Debug\Tff.EulerQuestion1.FS.XML
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.EulerQuestion1.FS\bin\Debug\Tff.ProjectEuler.FS.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.EulerQuestion1.FS\bin\Debug\Tff.ProjectEuler.FS.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.EulerQuestion1.FS\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.EulerQuestion1.FS\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.EulerQuestion1.FS\obj\Debug\Tff.ProjectEuler.FS.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.EulerQuestion1.FS\obj\Debug\Tff.ProjectEuler.FS.pdb

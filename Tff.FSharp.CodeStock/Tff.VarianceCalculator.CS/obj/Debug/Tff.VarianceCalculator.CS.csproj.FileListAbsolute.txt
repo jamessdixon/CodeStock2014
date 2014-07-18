@@ -1,0 +1,10 @@
+C:\Users\jamie\Documents\Hartford Code Camp\Tff.FSharp.HartfordCodeCamp2014\Tff.VarianceCalculator.CS\bin\Debug\Tff.VarianceCalculator.CS.dll
+C:\Users\jamie\Documents\Hartford Code Camp\Tff.FSharp.HartfordCodeCamp2014\Tff.VarianceCalculator.CS\bin\Debug\Tff.VarianceCalculator.CS.pdb
+C:\Users\jamie\Documents\Hartford Code Camp\Tff.FSharp.HartfordCodeCamp2014\Tff.VarianceCalculator.CS\obj\Debug\Tff.VarianceCalculator.CS.csprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Hartford Code Camp\Tff.FSharp.HartfordCodeCamp2014\Tff.VarianceCalculator.CS\obj\Debug\Tff.VarianceCalculator.CS.dll
+C:\Users\jamie\Documents\Hartford Code Camp\Tff.FSharp.HartfordCodeCamp2014\Tff.VarianceCalculator.CS\obj\Debug\Tff.VarianceCalculator.CS.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.VarianceCalculator.CS\bin\Debug\Tff.VarianceCalculator.CS.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.VarianceCalculator.CS\bin\Debug\Tff.VarianceCalculator.CS.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.VarianceCalculator.CS\obj\Debug\Tff.VarianceCalculator.CS.csprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.VarianceCalculator.CS\obj\Debug\Tff.VarianceCalculator.CS.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.VarianceCalculator.CS\obj\Debug\Tff.VarianceCalculator.CS.pdb

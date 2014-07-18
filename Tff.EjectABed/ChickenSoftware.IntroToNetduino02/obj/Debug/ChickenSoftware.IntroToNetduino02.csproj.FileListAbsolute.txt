@@ -1,0 +1,58 @@
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\le\ChickenSoftware.IntroToNetduino.exe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\be\ChickenSoftware.IntroToNetduino.exe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\le\ChickenSoftware.IntroToNetduino.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\be\ChickenSoftware.IntroToNetduino.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\ChickenSoftware.IntroToNetduino.exe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\ChickenSoftware.IntroToNetduino.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\le\ChickenSoftware.IntroToNetduino.pe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\le\ChickenSoftware.IntroToNetduino.pdbx
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\be\ChickenSoftware.IntroToNetduino.pe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\be\ChickenSoftware.IntroToNetduino.pdbx
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\obj\Debug\be\ChickenSoftware.IntroToNetduino.pe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\obj\Debug\be\ChickenSoftware.IntroToNetduino.pdbx
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\obj\Debug\le\ChickenSoftware.IntroToNetduino.pe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\obj\Debug\le\ChickenSoftware.IntroToNetduino.pdbx
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\obj\Debug\ChickenSoftware.IntroToNetduino.exe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\obj\Debug\ChickenSoftware.IntroToNetduino.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\le\ChickenSoftware.IntroToNetduino.exe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\be\ChickenSoftware.IntroToNetduino.exe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\le\ChickenSoftware.IntroToNetduino.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\be\ChickenSoftware.IntroToNetduino.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\ChickenSoftware.IntroToNetduino.exe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\ChickenSoftware.IntroToNetduino.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\le\ChickenSoftware.IntroToNetduino.pe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\le\ChickenSoftware.IntroToNetduino.pdbx
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\be\ChickenSoftware.IntroToNetduino.pe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\be\ChickenSoftware.IntroToNetduino.pdbx
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\obj\Debug\be\ChickenSoftware.IntroToNetduino.pe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\obj\Debug\be\ChickenSoftware.IntroToNetduino.pdbx
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\obj\Debug\le\ChickenSoftware.IntroToNetduino.pe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\obj\Debug\le\ChickenSoftware.IntroToNetduino.pdbx
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\obj\Debug\ChickenSoftware.IntroToNetduino.exe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToNetduino02\obj\Debug\ChickenSoftware.IntroToNetduino.pdb

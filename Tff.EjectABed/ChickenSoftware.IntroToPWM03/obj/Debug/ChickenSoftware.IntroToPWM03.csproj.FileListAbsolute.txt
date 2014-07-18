@@ -1,0 +1,60 @@
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\le\ChickenSoftware.IntroToPWM03.exe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\be\ChickenSoftware.IntroToPWM03.exe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\le\ChickenSoftware.IntroToPWM03.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\be\ChickenSoftware.IntroToPWM03.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\ChickenSoftware.IntroToPWM03.exe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\ChickenSoftware.IntroToPWM03.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\le\ChickenSoftware.IntroToPWM03.pe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\le\ChickenSoftware.IntroToPWM03.pdbx
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\be\ChickenSoftware.IntroToPWM03.pe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\be\ChickenSoftware.IntroToPWM03.pdbx
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\obj\Debug\be\ChickenSoftware.IntroToPWM03.pe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\obj\Debug\be\ChickenSoftware.IntroToPWM03.pdbx
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\obj\Debug\le\ChickenSoftware.IntroToPWM03.pe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\obj\Debug\le\ChickenSoftware.IntroToPWM03.pdbx
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\obj\Debug\ChickenSoftware.IntroToPWM03.exe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\obj\Debug\ChickenSoftware.IntroToPWM03.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\obj\Debug\ChickenSoftware.IntroToPWM03.csprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.EjectABed\ChickenSoftware.IntroToPWM03\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\le\ChickenSoftware.IntroToPWM03.exe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\be\ChickenSoftware.IntroToPWM03.exe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\le\ChickenSoftware.IntroToPWM03.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\be\ChickenSoftware.IntroToPWM03.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\ChickenSoftware.IntroToPWM03.exe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\ChickenSoftware.IntroToPWM03.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\le\ChickenSoftware.IntroToPWM03.pe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\le\ChickenSoftware.IntroToPWM03.pdbx
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\be\ChickenSoftware.IntroToPWM03.pe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\be\ChickenSoftware.IntroToPWM03.pdbx
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\obj\Debug\ChickenSoftware.IntroToPWM03.csprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\obj\Debug\be\ChickenSoftware.IntroToPWM03.pe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\obj\Debug\be\ChickenSoftware.IntroToPWM03.pdbx
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\obj\Debug\le\ChickenSoftware.IntroToPWM03.pe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\obj\Debug\le\ChickenSoftware.IntroToPWM03.pdbx
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\obj\Debug\ChickenSoftware.IntroToPWM03.exe
+C:\Users\jamie\Documents\Code Stock\Tff.EjectABed\ChickenSoftware.IntroToPWM03\obj\Debug\ChickenSoftware.IntroToPWM03.pdb

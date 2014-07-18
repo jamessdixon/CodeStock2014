@@ -1,0 +1,28 @@
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\bin\Debug\Tff.WebServiceProvider.exe.config
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\bin\Debug\Tff.WebServiceProvider.XML
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\bin\Debug\Tff.WebServiceProvider.exe
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\bin\Debug\Tff.WebServiceProvider.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\bin\Debug\FSharp.Core.dll
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\bin\Debug\FSharp.Core.xml
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\obj\Debug\Tff.WebServiceProvider.fsprojResolveAssemblyReference.cache
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\obj\Debug\Tff.WebServiceProvider.exe
+C:\TFS\Tff.CodeCamp2013\Tff.WebServiceProvider\obj\Debug\Tff.WebServiceProvider.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.WebServiceProvider\bin\Debug\Tff.WebServiceProvider.XML
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.WebServiceProvider\obj\Debug\Tff.WebServiceProvider.fsprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.WebServiceProvider\obj\Debug\Tff.WebServiceProvider.exe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.WebServiceProvider\obj\Debug\Tff.WebServiceProvider.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.WebServiceProvider\bin\Debug\Tff.WebServiceProvider.exe.config
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.WebServiceProvider\bin\Debug\Tff.WebServiceProvider.exe
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.WebServiceProvider\bin\Debug\Tff.WebServiceProvider.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.WebServiceProvider\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.WebServiceProvider\bin\Debug\FSharp.Data.TypeProviders.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.WebServiceProvider\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.WebServiceProvider\bin\Debug\Tff.WebServiceProvider.exe.config
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.WebServiceProvider\bin\Debug\Tff.WebServiceProvider.XML
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.WebServiceProvider\bin\Debug\Tff.WebServiceProvider.exe
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.WebServiceProvider\bin\Debug\Tff.WebServiceProvider.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.WebServiceProvider\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.WebServiceProvider\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.WebServiceProvider\obj\Debug\Tff.WebServiceProvider.fsprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.WebServiceProvider\obj\Debug\Tff.WebServiceProvider.exe
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.WebServiceProvider\obj\Debug\Tff.WebServiceProvider.pdb

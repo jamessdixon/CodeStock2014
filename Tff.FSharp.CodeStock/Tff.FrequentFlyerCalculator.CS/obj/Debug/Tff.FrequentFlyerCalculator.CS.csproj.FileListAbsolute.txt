@@ -1,0 +1,5 @@
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.FrequentFlyerCalculator.CS\bin\Debug\Tff.FrequentFlyerCalculator.CS.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.FrequentFlyerCalculator.CS\bin\Debug\Tff.FrequentFlyerCalculator.CS.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.FrequentFlyerCalculator.CS\obj\Debug\Tff.FrequentFlyerCalculator.CS.csprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.FrequentFlyerCalculator.CS\obj\Debug\Tff.FrequentFlyerCalculator.CS.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.FrequentFlyerCalculator.CS\obj\Debug\Tff.FrequentFlyerCalculator.CS.pdb

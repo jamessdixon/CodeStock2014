@@ -1,0 +1,17 @@
+C:\TFS\Tff.CodeCamp2013\Tff.EulerQuestion1.CS\bin\Debug\Tff.ProjectEuler.CS.dll
+C:\TFS\Tff.CodeCamp2013\Tff.EulerQuestion1.CS\bin\Debug\Tff.ProjectEuler.CS.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.EulerQuestion1.CS\obj\Debug\Tff.ProjectEuler.CS.csprojResolveAssemblyReference.cache
+C:\TFS\Tff.CodeCamp2013\Tff.EulerQuestion1.CS\obj\Debug\Tff.ProjectEuler.CS.dll
+C:\TFS\Tff.CodeCamp2013\Tff.EulerQuestion1.CS\obj\Debug\Tff.ProjectEuler.CS.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.EulerQuestion1.CS\bin\Debug\Tff.ProjectEuler.CS.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.EulerQuestion1.CS\bin\Debug\Tff.ProjectEuler.CS.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.EulerQuestion1.CS\obj\Debug\Tff.ProjectEuler.CS.csprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.EulerQuestion1.CS\obj\Debug\Tff.ProjectEuler.CS.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.EulerQuestion1.CS\obj\Debug\Tff.ProjectEuler.CS.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.EulerQuestion1.CS\bin\Debug\Tff.ProjectEuler.CS.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.EulerQuestion1.CS\bin\Debug\Tff.ProjectEuler.CS.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.EulerQuestion1.CS\bin\Debug\Tff.ProjectEuler.CS.dll.CodeAnalysisLog.xml
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.EulerQuestion1.CS\bin\Debug\Tff.ProjectEuler.CS.dll.lastcodeanalysissucceeded
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.EulerQuestion1.CS\obj\Debug\Tff.ProjectEuler.CS.csprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.EulerQuestion1.CS\obj\Debug\Tff.ProjectEuler.CS.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.EulerQuestion1.CS\obj\Debug\Tff.ProjectEuler.CS.pdb

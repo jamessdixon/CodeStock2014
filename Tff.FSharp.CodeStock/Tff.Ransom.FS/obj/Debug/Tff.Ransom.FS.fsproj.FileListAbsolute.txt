@@ -1,0 +1,24 @@
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.FS\bin\Debug\Tff.Ransom.FS.XML
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.FS\bin\Debug\Tff.Ransom.FS.dll
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.FS\bin\Debug\Tff.Ransom.FS.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.FS\bin\Debug\FSharp.Core.dll
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.FS\bin\Debug\FSharp.Core.xml
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.FS\obj\Debug\Tff.Ransom.FS.dll
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.FS\obj\Debug\Tff.Ransom.FS.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.Ransom.FS\obj\Debug\Tff.Ransom.FS.fsprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.Ransom.FS\bin\Debug\Tff.Ransom.FS.XML
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.Ransom.FS\bin\Debug\Tff.Ransom.FS.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.Ransom.FS\bin\Debug\Tff.Ransom.FS.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.Ransom.FS\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.Ransom.FS\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.Ransom.FS\obj\Debug\Tff.Ransom.FS.fsprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.Ransom.FS\obj\Debug\Tff.Ransom.FS.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.Ransom.FS\obj\Debug\Tff.Ransom.FS.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.Ransom.FS\bin\Debug\Tff.Ransom.FS.XML
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.Ransom.FS\bin\Debug\Tff.Ransom.FS.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.Ransom.FS\bin\Debug\Tff.Ransom.FS.pdb
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.Ransom.FS\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.Ransom.FS\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.Ransom.FS\obj\Debug\Tff.Ransom.FS.fsprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.Ransom.FS\obj\Debug\Tff.Ransom.FS.dll
+C:\Users\jamie\Documents\Code Stock\Tff.FSharp.CodeStock\Tff.Ransom.FS\obj\Debug\Tff.Ransom.FS.pdb

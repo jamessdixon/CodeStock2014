@@ -1,0 +1,18 @@
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator.Tests\bin\Debug\Tff.ClaimAdjudicator.Tests.dll
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator.Tests\bin\Debug\Tff.ClaimAdjudicator.Tests.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator.Tests\bin\Debug\Tff.ClaimAdjudicator.dll
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator.Tests\bin\Debug\Tff.ClaimAdjudicator.pdb
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator.Tests\bin\Debug\Tff.ClaimAdjudicator.xml
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator.Tests\obj\Debug\Tff.ClaimAdjudicator.Tests.csprojResolveAssemblyReference.cache
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator.Tests\obj\Debug\Tff.ClaimAdjudicator.Tests.dll
+C:\TFS\Tff.CodeCamp2013\Tff.ClaimAdjudicator.Tests\obj\Debug\Tff.ClaimAdjudicator.Tests.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.ClaimAdjudicator.Tests\bin\Debug\Tff.ClaimAdjudicator.Tests.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.ClaimAdjudicator.Tests\bin\Debug\Tff.ClaimAdjudicator.Tests.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.ClaimAdjudicator.Tests\bin\Debug\Tff.ClaimAdjudicator.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.ClaimAdjudicator.Tests\bin\Debug\FSharp.Core.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.ClaimAdjudicator.Tests\bin\Debug\Tff.ClaimAdjudicator.pdb
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.ClaimAdjudicator.Tests\bin\Debug\Tff.ClaimAdjudicator.xml
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.ClaimAdjudicator.Tests\bin\Debug\FSharp.Core.xml
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.ClaimAdjudicator.Tests\obj\Debug\Tff.ClaimAdjudicator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.ClaimAdjudicator.Tests\obj\Debug\Tff.ClaimAdjudicator.Tests.dll
+C:\Users\jamie\Documents\Charlotte Code Camp\Tff.FSharp.CarolinaCodeCamp2014\Tff.ClaimAdjudicator.Tests\obj\Debug\Tff.ClaimAdjudicator.Tests.pdb
